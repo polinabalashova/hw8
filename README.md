@@ -8,6 +8,7 @@
 ## Задание 2
 
 Я использовала регулярное выражение [А-Я]*?слав, Всего упоминаний о князьях нашла:653
+![https://github.com/polinabalashova/hw8/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA4.JPG](https://github.com/polinabalashova/hw8/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA4.JPG)
 
 ## Задание 3
 
